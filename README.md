@@ -32,4 +32,4 @@ bundle exec jekyll serve
 
 This will be hosted at http://localhost:4000 by default
 
-![Example Screenshot](/../assets/screenshot.tiff?raw=true "Example Screenshot")
+![Example Screenshot](/../master/assets/screenshot.png?raw=true "Example Screenshot")
